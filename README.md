@@ -6,24 +6,9 @@
 </div>
 
 # <div align="center">Un petit jeu d'aventure</div>
-<details>
-<summary>Sommaire</summary>
-<br>
-  <ul>
-    <li>A propos du projet</li>
-    <li>Lancer le projet</li>
-    <ul>
-      <li>Pré-requis</li>
-      <li>Installation</li>
-    </ul>
-    <li>Contribuer</li>
-    <li>Licence</li>
-    <li>Contact</li>
-    <li>Accréditations</li>
-  </ul>
-</details>
 
 ## A propos du projet
+
 <div><img src="https://user.oc-static.com/upload/2022/03/24/16481138071096_FR_4366701_ALGO_STATICS_P1C3-2.jpg"  
        width="50%" height="50%"> </div>
 <p align="justify">
@@ -43,11 +28,11 @@ Lancez la commande : `sudo apt-get install python@latest -g`
 
 Lancez la commande : `sudo apt-get install python3-pygame`
 
-<br>
 
 ### Installation
 
 ## Contribuer
+N'hésitez à créer une branche feature et à formuler une pull-request, si vous souhaitez contribuer à ce projet !
 
 ## Licence
 Ce contenu est sous une licence <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative commons</a>.
