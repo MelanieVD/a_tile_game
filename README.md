@@ -22,14 +22,20 @@
 
 - Le langage python 3.12.2
 
-Lancez la commande : `sudo apt-get install python@latest -g`
+Lancez la commande : `sudo apt-get install python@latest -g` ou `pip install python`
 
 - Le package pygame 2.5.2
 
-Lancez la commande : `sudo apt-get install python3-pygame`
+Lancez la commande : `sudo apt-get install python3-pygame` ou `pip install pygame`
 
 
 ### Installation
+
+- Clonez le Repository : `git clone https://github.com/MelanieVD/a_tile_game.git`
+
+- Placez-vous dans le dossier du projet : `cd a_tile_game`
+
+- Lancez le jeu : `python main.py`
 
 ## Contribuer
 N'hésitez à créer une branche feature et à formuler une pull-request, si vous souhaitez contribuer à ce projet !
